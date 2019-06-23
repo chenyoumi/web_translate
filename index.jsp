@@ -1,10 +1,9 @@
-    <html>
+    <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
+        <html>
         <head>
-        <title>第一个 JSP 程序</title>
+        <title>JSP</title>
         </head>
         <body>
-            <%
-                  out.println("Hello World！");
-           %>
+            <% out.println("welcome to JSP server");%>
         </body>
         </html>
