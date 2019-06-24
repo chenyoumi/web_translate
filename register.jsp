@@ -26,9 +26,9 @@
         <%
              Connection con=null;
              String DriverName="com.mysql.jdbc.Driver";
-             String DBname="jdbc:mysql://47.98.189.231:3306/web_translate";
-             String DBuser="root";
-             String DBcode="4580c4da7414ea8a";
+             String DBname="jdbc:mysql://xxxxxxxxx/web_translate";
+             String DBuser="xxxx";
+             String DBcode="xxxxxxxx";
 
             try
             {
