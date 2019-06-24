@@ -1,5 +1,6 @@
     <%@ page language="java" contentType="text/html" pageEncoding="UTF-8"%>
         <%@ page  import="java.util.*" %>
+        <%@ page  import="java.sql.*"%>
         <%@page import="java.security.MessageDigest"%> <!--引入加密包-->
 
         <!DOCTYPE html>
